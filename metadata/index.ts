@@ -1,6 +1,6 @@
 /** 文本 */
-export const siteName = 'YJBlog'
-export const siteShortName = 'YJBlog'
+export const siteName = 'GJY's_Blog'
+export const siteShortName = 'GJY's_Blog'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
 /** 文档所在目录 */
